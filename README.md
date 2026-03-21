@@ -97,7 +97,7 @@ Most startups struggle with:
   <img src="https://img.shields.io/badge/🚀 Need DevOps Setup%3F-Let's Work Together-success?style=for-the-badge" />
 </p>
 
-### I can help you:
+### We can help you:
 
 - Deploy your app on AWS ☁️  
 - Build CI/CD pipelines 🔄  
@@ -109,6 +109,7 @@ Most startups struggle with:
 ## 📩 Contact / Hire
 
 📧 deploylynx26@gmail.com  
+www.deploylynx.com
 
 <p align="center">
 
