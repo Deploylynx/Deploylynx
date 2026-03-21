@@ -81,21 +81,15 @@ Most startups struggle with:
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deploylynx-tech&theme=github-dark&hide_border=true" width="100%"/>
-</p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deploylynx&show_icons=true&theme=github_dark)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+![DeployLynx GitHub stats](https://github-readme-stats.vercel.app/api?username=deploylynx-tech&show_icons=true&theme=github_dark)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=deploylynx-tech&show_icons=true&theme=github_dark" height="180"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deploylynx-tech&theme=github-dark" height="180"/>
-
-</p>
 
 ---
 
