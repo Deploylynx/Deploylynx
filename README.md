@@ -1,76 +1,148 @@
 # 🚀 DeployLynx
 
-### DevOps Engineer | AWS • Kubernetes • CI/CD • Automation | Founder @ DeployLynx  
-
-### AI Automation • Smart Systems • Scalable Digital Solutions
-
-DeployLynx builds production-grade systems using DevOps, cloud infrastructure, and AI-powered automation to help startups deploy faster, scale reliably, and operate efficiently.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+AWS+%E2%80%A2+CI%2FCD+%E2%80%A2+Automation+%7C+Founder+%40+DeployLynx;Building+Scalable+Cloud+%26+AI+Automation+Systems;Helping+Startups+Deploy+Faster+%F0%9F%9A%80" />
+</p>
 
 ---
 
-## 🌟 What We Build
+<p align="center">
 
-- AI Automation Tools  
-- Smart Web Applications  
-- Workflow Automation Systems  
-- AI-Powered SaaS Products  
+  <a href="https://www.deploylynx.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit Website-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 
----
+  <a href="https://www.linkedin.com/company/linkedin-deploylynx-devops/?viewAsMember=true" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow DeployLynx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-## 🧠 Technologies We Use
+  <a href="https://hashnode.com/@deploylynx-tech" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-Blogs-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
 
-- Python  
-- JavaScript  
-- Node.js  
-- AI APIs  
-- AWS Cloud  
-- Kubernetes  
-- CI/CD Pipelines  
+</p>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ AI Automation • Smart Systems • Scalable Digital Solutions
 
+DeployLynx builds **production-ready DevOps systems, cloud infrastructure, and AI automation** that help startups scale faster, reduce downtime, and ship with confidence.
+
+> 🚀 DeployLynx = DevOps Systems for Startups
+
+---
+
+## 💣 The Problem We Solve
+
+Most startups struggle with:
+
+❌ Slow deployments  
+❌ Downtime in production  
+❌ No CI/CD pipeline  
+❌ Security risks  
+❌ Manual processes  
+
+---
+
+## ✅ What We Deliver
+
+✔ Automated CI/CD pipelines  
+✔ Scalable AWS infrastructure  
+✔ Dockerized applications  
+✔ Secure DevSecOps workflows  
+✔ AI-powered automation systems  
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-CI/CD-red?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-red?style=for-the-badge)
+
+</p>
 
 ---
 
-## 🎯 Mission
+## 🚀 Featured Projects
 
-Our mission is to design and deliver scalable, secure, and automated systems that reduce complexity and enable businesses to grow faster with confidence.
+- **AI Automation Tools** → Smart scripts & automation systems  
+- **DeployLynx Website** → Production-ready cloud deployment  
+- **DevOps Pipelines** → CI/CD + Docker + AWS setups  
+- **Automation Systems** → Workflow automation for startups  
 
 ---
 
-## 📂 Main Repositories
+## 📈 GitHub Activity
 
-- **ai-automation-tools** – AI scripts and automation systems  
-- **deploylynx-website** – Official DeployLynx website  
-- **deploylynx-projects** – Portfolio projects  
-- **deploylynx-docs** – Documentation & guides  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deploylynx-tech&theme=github-dark&hide_border=true" width="100%"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=deploylynx&show_icons=true&theme=github_dark)
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=deploylynx-tech&show_icons=true&theme=github_dark" height="180"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deploylynx-tech&theme=github-dark" height="180"/>
+
+</p>
+
+---
+
+## 💰 Work With Me (CLIENT CTA)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀 Need DevOps Setup%3F-Let's Work Together-success?style=for-the-badge" />
+</p>
+
+### I can help you:
+
+- Deploy your app on AWS ☁️  
+- Build CI/CD pipelines 🔄  
+- Automate your workflows 🤖  
+- Fix slow or broken infrastructure ⚡  
+
+---
+
+## 📩 Contact / Hire
+
+📧 deploylynx26@gmail.com  
+
+<p align="center">
+
+  <a href="https://www.deploylynx.com">
+    <img src="https://img.shields.io/badge/Visit Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/company/linkedin-deploylynx-devops/?viewAsMember=true">
+    <img src="https://img.shields.io/badge/DM on LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+</p>
+
+---
+
+## 🎯 Mission
+
+To build **scalable, secure, and intelligent systems** that eliminate manual work and help businesses grow faster using DevOps and AI.
 
 ---
 
 ## 👀 Profile Views
 
-![Visitors](https://komarev.com/ghpvc/?username=deploylynx&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deploylynx-tech&color=blue&style=for-the-badge"/>
+</p>
 
 ---
 
-## 📫 Contact
-
-📧 deploylynx26@gmail.com  
-
----
-
-⭐ Follow DeployLynx to stay updated with DevOps, Cloud & AI Automation projects.
+⭐ Follow DeployLynx for DevOps, Cloud & AI Automation content
