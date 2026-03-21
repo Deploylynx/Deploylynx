@@ -109,7 +109,7 @@ Most startups struggle with:
 ## 📩 Contact / Hire
 
 📧 deploylynx26@gmail.com  
-www.deploylynx.com
+
 
 <p align="center">
 
