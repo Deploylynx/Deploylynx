@@ -6,25 +6,13 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.deploylynx.com">
-    <img src="https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/company/linkedin-deploylynx-devops/?viewAsMember=true">
-    <img src="https://img.shields.io/badge/LinkedIn-DeployLynx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://hashnode.com/@deploylynx-tech">
-    <img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-</p>
+# 🚀 DeployLynx
 
----
+### AI Automation • Smart Systems • Scalable Digital Solutions
 
-### ⚡ AI Automation • Smart Systems • Scalable Digital Solutions
+DeployLynx is a technology company focused on building modern AI tools, automation systems, and scalable digital platforms that help businesses streamline workflows and operate more efficiently.
 
-DeployLynx builds modern AI tools, automation systems, and scalable digital platforms to help businesses streamline workflows and scale efficiently.
-
-**DeployLynx = DevOps Systems for Startups 🚀**
+DeployLynx = DevOps Systems for Startups
 
 ---
 
@@ -39,12 +27,12 @@ DeployLynx builds modern AI tools, automation systems, and scalable digital plat
 
 ## 🧠 Technologies We Use
 
-- Python  
-- JavaScript  
-- Node.js  
-- AI APIs  
-- Cloud Infrastructure  
-- DevOps & Automation  
+- Python
+- JavaScript
+- Node.js
+- AI APIs
+- Cloud Infrastructure
+- DevOps & Automation
 
 ---
 
@@ -53,9 +41,15 @@ DeployLynx builds modern AI tools, automation systems, and scalable digital plat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
-![CI/CD](https://img.shields.io/badge/CI/CD-Automation-red?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Automation-blue?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-Infrastructure-orange?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-CI/CD-red?style=for-the-badge)
+
+
+---
+## 🎯 Mission
+
+Our mission is to build intelligent technology that simplifies complex processes, automates repetitive tasks, and empowers businesses through modern AI-driven solutions.
 
 ---
 
@@ -63,45 +57,37 @@ DeployLynx builds modern AI tools, automation systems, and scalable digital plat
 
 - **ai-automation-tools** – AI scripts and automation systems  
 - **deploylynx-website** – Official DeployLynx website  
-- **deploylynx-projects** – Portfolio projects  
-- **deploylynx-docs** – Documentation & guides  
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deploylynx&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deploylynx&show_icons=true&theme=github_dark" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deploylynx&theme=github-dark" height="170"/>
-</p>
+- **deploylynx-projects** – Portfolio of software projects  
+- **deploylynx-docs** – Documentation and guides  
 
 ---
 
 ## 📫 Contact
 
-<p align="center">
-  <a href="mailto:deploylynx26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.deploylynx.com">
-    <img src="https://img.shields.io/badge/Website-DeployLynx-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+📧 deploylynx26@gmail.com
 
 ---
 
-⭐ Follow DeployLynx for DevOps, Cloud & AI Automation content
+⭐ Follow DeployLynx to stay updated with our AI automation tools and projects.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deploylynx&color=blue&style=for-the-badge"/>
-</p>
+![Visitors](https://komarev.com/ghpvc/?username=Deploylynx&color=blue)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deploylynx&show_icons=true&theme=github_dark)
+
+
+---
+
+## 📊 GitHub Stats
+
+![DeployLynx GitHub stats](https://github-readme-stats.vercel.app/api?username=deploylynx-tech&show_icons=true&theme=github_dark)
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=deploylynx-tech&color=blue)
+
