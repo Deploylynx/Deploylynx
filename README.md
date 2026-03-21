@@ -1,7 +1,5 @@
 # 🚀 DeployLynx
 
-# 🚀 DeployLynx
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=DevOps+Engineer+%7C+AWS+%E2%80%A2+Kubernetes+%E2%80%A2+CI%2FCD+%E2%80%A2+Automation+%7C+Founder+%40+DeployLynx;Building+Scalable+Cloud+%26+AI+Automation+Systems;Helping+Startups+Deploy+Faster+%F0%9F%9A%80" />
 </p> 
