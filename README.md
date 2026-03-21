@@ -48,7 +48,7 @@ DeployLynx = DevOps Systems for Startups
   <img src="https://img.shields.io/badge/🚀 Need DevOps Setup%3F-Let's Work Together-success?style=for-the-badge" />
 </p>
 
-### I can help you:
+### We can help you:
 
 - Deploy your app on AWS ☁️  
 - Build CI/CD pipelines 🔄  
@@ -90,8 +90,6 @@ Our mission is to build intelligent technology that simplifies complex processes
 
 ---
 
----
-
 ⭐ Follow DeployLynx to stay updated with our AI automation tools and projects.
 
 
@@ -119,7 +117,7 @@ Our mission is to build intelligent technology that simplifies complex processes
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deploylynx&theme=github-dark&hide_border=true&area=true" />
 </p>
 
----
+
 
 ## 👀 Profile Views
 ![Visitors](https://komarev.com/ghpvc/?username=deploylynx-tech&color=blue)
