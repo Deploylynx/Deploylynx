@@ -99,8 +99,6 @@ Most startups struggle with:
 
 ---
 
-## 💰 Work With Me (CLIENT CTA)
-
 <p align="center">
   <img src="https://img.shields.io/badge/🚀 Need DevOps Setup%3F-Let's Work Together-success?style=for-the-badge" />
 </p>
