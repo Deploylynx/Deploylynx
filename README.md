@@ -74,16 +74,29 @@ Our mission is to build intelligent technology that simplifies complex processes
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deploylynx&show_icons=true&theme=github_dark)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deploylynx&show_icons=true&theme=github_dark&cache_seconds=1800" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![DeployLynx GitHub stats](https://github-readme-stats.vercel.app/api?username=deploylynx-tech&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deploylynx&theme=github-dark&cache_seconds=1800" />
+</p> 
+
+---
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deploylynx&theme=github-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
