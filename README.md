@@ -6,8 +6,6 @@
 
 ---
 
-# 🚀 DeployLynx
-
 ### AI Automation • Smart Systems • Scalable Digital Solutions
 
 DeployLynx is a technology company focused on building modern AI tools, automation systems, and scalable digital platforms that help businesses streamline workflows and operate more efficiently.
